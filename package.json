@@ -1,0 +1,30 @@
+{
+  "name": "mywebpage",
+  "version": "1.0.0",
+  "description": "This is a try for make a web page about me.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisIglesiasWork/MyWebPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisIglesiasWork/MyWebPage/issues"
+  },
+  "homepage": "https://github.com/LuisIglesiasWork/MyWebPage#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.12",
+    "sweetalert2": "^11.1.2"
+  }
+}
